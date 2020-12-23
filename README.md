@@ -26,25 +26,24 @@ App has only three fragment
 
 
 ## Home Screen 
-  
-![News Fragment](https://github.com/i-likekapil/MVVM-NewsApp/blob/main/Images/news.jpeg)
+   
+<img src="https://github.com/i-likekapil/MVVM-NewsApp/blob/main/Images/news.jpeg" width="200" height="400">
   
     
 
 ## Save News Screen 
   
-![Saved Fragment](https://github.com/i-likekapil/MVVM-NewsApp/blob/main/Images/save.jpeg)
+<img src="https://github.com/i-likekapil/MVVM-NewsApp/blob/main/Images/save.jpeg" width="200" height="400">
   
     
       
 ## Search News Screen 
     
-![Search Fragment](https://github.com/i-likekapil/MVVM-NewsApp/blob/main/Images/search.jpeg)
-  
+<img src="https://github.com/i-likekapil/MVVM-NewsApp/blob/main/Images/search.jpeg" width="200" height="400">
     
     
 
 ## Web Screen 
   
     
-![Web Fragment](https://github.com/i-likekapil/MVVM-NewsApp/blob/main/Images/web.jpeg)
+<img src="https://github.com/i-likekapil/MVVM-NewsApp/blob/main/Images/web.jpeg" width="200" height="400">
