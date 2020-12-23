@@ -1,6 +1,6 @@
 # News App
 
-this application show fetch latest news from an api and show in app.
+this application fetch latest news from an api and show in app.
 you can save web articles and search the news in an api.
 you can read full article by clicking on item article.
 this application is based on Android Model–view–viewmodel (MVVM) Architecture
