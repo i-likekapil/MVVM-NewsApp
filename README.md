@@ -19,7 +19,7 @@ App has only three fragment
 * Kotlin Lifecycles
 * Kotlin ViewModels
 * Navigation Component
-* Refrofit
+* Retrofit
 * Material Design
 * Glide
 
